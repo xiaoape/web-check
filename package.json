@@ -1,0 +1,23 @@
+{
+  "name": "web-check",
+  "version": "1.0.0",
+  "description": "check your web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoape/web-check.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaoape/web-check/issues"
+  },
+  "homepage": "https://github.com/xiaoape/web-check#readme",
+  "dependencies": {
+    "error-stack-parser": "^2.1.4",
+    "ua-parser-js": "^1.0.35"
+  }
+}
